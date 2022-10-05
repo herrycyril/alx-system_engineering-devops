@@ -1,1 +1,3 @@
 #!/bin/bash
+mktemp -d -t ci-my_first_directory
+mktemp -d -t ci-my_first_directory
