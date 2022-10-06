@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod ug+x o+r hellow
+chmod ug+x hellow
+chmod o+r hellow
