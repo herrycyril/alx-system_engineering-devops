@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod ug+x hellow
-chmod o+r hellow
+chmod 114 hello
